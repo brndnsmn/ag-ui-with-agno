@@ -15,6 +15,13 @@
   Your browser does not support the video tag.
 </video>
 
+- **Multi-Step Task Planner**  
+  For complex requests, generates a crisp **10-step action plan** and follows up with a short, creative “how we’ll proceed” summary.
+
+  <video src="docs/demo-task.mp4" controls width="720">
+  Your browser does not support the video tag.
+  </video>
+
 - **Meeting Assistant**  
   Automatically understands topic, date, and time from your message and presents a sleek confirmation card in the UI.
 
@@ -27,9 +34,6 @@
 - **Academic Research (arXiv)**  
   Surfaces the **top 3 or 5** relevant papers with **official arXiv links** and a one-line takeaway for each.
 
-
-- **Multi-Step Task Planner**  
-  For complex requests, generates a crisp **10-step action plan** and follows up with a short, creative “how we’ll proceed” summary.
 
 
 
