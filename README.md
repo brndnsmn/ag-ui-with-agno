@@ -15,6 +15,14 @@
   Your browser does not support the video tag.
 </video>
 
+
+
+https://github.com/user-attachments/assets/16404b0e-2243-4b57-a46b-4bce891d8d6b
+
+
+https://github.com/user-attachments/assets/33d3d851-9141-407e-a541-44f041430b8a
+
+
 - **Multi-Step Task Planner**  
   For complex requests, generates a crisp **10-step action plan** and follows up with a short, creative “how we’ll proceed” summary.
 
