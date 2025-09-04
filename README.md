@@ -1,6 +1,8 @@
 # CopilotKit <> Agno Starter
 
 This is a starter template for building AI agents using [Agno](https://agno.com) and [CopilotKit](https://copilotkit.ai). It provides a modern Next.js application with an integrated investment analyst agent that can research stocks, analyze market data, and provide investment insights.
+## Demo
+![Uygulama demosu](docs/demo.gif)
 
 ## Prerequisites
 
