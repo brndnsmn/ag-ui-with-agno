@@ -7,9 +7,10 @@
 
 ## Key Capabilities
 
-- **Live Theme & Personalization**  
+- **Live Theme & Personalization**  -- frontend tool
   Customize the interface colors to your taste—changes apply **instantly**.
-  ## Demo (Video)
+  
+
 
 <video src="docs/demo-renk.mp4" controls width="720">
   Your browser does not support the video tag.
@@ -18,7 +19,7 @@
 https://github.com/user-attachments/assets/33d3d851-9141-407e-a541-44f041430b8a
 
 
-- **Multi-Step Task Planner**  
+- **Multi-Step Task Planner**  -- frontend tool
   For complex requests, generates a crisp **10-step action plan** and follows up with a short, creative “how we’ll proceed” summary.
 
 
@@ -47,7 +48,7 @@ https://github.com/user-attachments/assets/42caf423-15f0-4d6c-9e04-aa675dd8d607
 https://github.com/user-attachments/assets/e800e0f9-f922-4078-88db-19a310716339
 
 
-- **Sourced Web News**  
+- **Sourced Web News (DuckDuckGo)**  
   Searches the web, extracts the most relevant results, and includes the **original source link** for each item.
 
 
