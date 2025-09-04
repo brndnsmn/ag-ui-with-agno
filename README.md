@@ -1,8 +1,43 @@
-# CopilotKit <> Agno Starter
+# AG-UI Powered Smart Assistant Demo — Agno × CopilotKit
 
-This is a starter template for building AI agents using [Agno](https://agno.com) and [CopilotKit](https://copilotkit.ai). It provides a modern Next.js application with an integrated investment analyst agent that can research stocks, analyze market data, and provide investment insights.
+**Powered by the ag-ui protocol.** Interact with agents and see live, streaming updates directly in the interface. This modern Next.js experience unifies meeting assistance, web/news research, email, customer support flows, and multi-step planning in one place. Results are presented in clean **Markdown** with **tables** where helpful, so you can scan and act fast.
+
 ## Demo
-![Uygulama demosu](docs/demo.gif)
+![App demo](docs/demo.gif)
+
+## Key Capabilities
+
+- **Live Theme & Personalization**  
+  Customize the interface colors to your taste—changes apply **instantly**.
+  ## Demo (Video)
+
+<video src="docs/demo-renk.mp4" controls width="720">
+  Your browser does not support the video tag.
+</video>
+
+- **Meeting Assistant**  
+  Automatically understands topic, date, and time from your message and presents a sleek confirmation card in the UI.
+
+- **Sourced Web News**  
+  Searches the web, extracts the most relevant results, and includes the **original source link** for each item.
+
+- **Gmail Integration**  
+  With Gmail authentication, you can view your inbox/outbox. Provide a recipient and a short description—the assistant drafts a polished subject and body, then **sends the email** for you.
+
+- **Academic Research (arXiv)**  
+  Surfaces the **top 3 or 5** relevant papers with **official arXiv links** and a one-line takeaway for each.
+
+
+- **Multi-Step Task Planner**  
+  For complex requests, generates a crisp **10-step action plan** and follows up with a short, creative “how we’ll proceed” summary.
+
+
+
+## Notes
+- Outputs are always **readable**, **concise**, and **action-oriented**.
+- For security, keep API keys and tokens out of the repo. Use environment variables (e.g., `.env` or your hosting provider’s **Environment Variables**) and ignore sensitive files like `agent/token.json`.
+- Thanks to the **ag-ui protocol**, you can interact with agents and see **live updates** directly in the interface.
+
 
 ## Prerequisites
 
@@ -88,26 +123,3 @@ The main UI component is in `src/app/page.tsx`. You can:
 - [CopilotKit Documentation](https://docs.copilotkit.ai) - Explore CopilotKit's capabilities
 - [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API
 - [YFinance Documentation](https://pypi.org/project/yfinance/) - Financial data tools
-
-## Contributing
-
-Feel free to submit issues and enhancement requests! This starter is designed to be easily extensible.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Troubleshooting
-
-### Agent Connection Issues
-If you see "I'm having trouble connecting to my tools", make sure:
-1. The Agno agent is running on port 8000
-2. Your OpenAI API key is set correctly
-3. Both servers started successfully
-
-### Python Dependencies
-If you encounter Python import errors:
-```bash
-cd agent
-pip install -r requirements.txt
-```
