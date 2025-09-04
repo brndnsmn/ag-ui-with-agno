@@ -157,4 +157,6 @@ The main UI component is in `src/app/page.tsx`. You can:
 - [Agno Documentation](https://docs.agno.com/introduction) - Learn more about Agno and its features
 - [CopilotKit Documentation](https://docs.copilotkit.ai) - Explore CopilotKit's capabilities
 - [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API
+- [AG-UI Documentation (TR)](https://medium.com/@bernadnsmn8/ag-ui-ajanlar%C4%B1-kullan%C4%B1c%C4%B1larla-bulu%C5%9Fturan-protokol-731f3efe4369) - Learn more about AG-UI Protocol
+- [AG-UI Documentation](https://docs.ag-ui.com/introduction) - Learn more about AG-UI Protocol
 - [YFinance Documentation](https://pypi.org/project/yfinance/) - Financial data tools
