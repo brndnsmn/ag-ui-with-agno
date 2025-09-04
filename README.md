@@ -15,33 +15,55 @@
   Your browser does not support the video tag.
 </video>
 
-
-
-https://github.com/user-attachments/assets/16404b0e-2243-4b57-a46b-4bce891d8d6b
-
-
 https://github.com/user-attachments/assets/33d3d851-9141-407e-a541-44f041430b8a
 
 
 - **Multi-Step Task Planner**  
   For complex requests, generates a crisp **10-step action plan** and follows up with a short, creative “how we’ll proceed” summary.
 
-  <video src="docs/demo-task.mp4" controls width="720">
-  Your browser does not support the video tag.
-  </video>
+
+https://github.com/user-attachments/assets/9407c45a-3249-44d6-833d-6725ed8f9e33
+
+
+
+  
 
 - **Meeting Assistant**  
   Automatically understands topic, date, and time from your message and presents a sleek confirmation card in the UI.
+  
 
-- **Sourced Web News**  
-  Searches the web, extracts the most relevant results, and includes the **original source link** for each item.
+
+
+
+https://github.com/user-attachments/assets/42caf423-15f0-4d6c-9e04-aa675dd8d607
 
 - **Gmail Integration**  
   With Gmail authentication, you can view your inbox/outbox. Provide a recipient and a short description—the assistant drafts a polished subject and body, then **sends the email** for you.
 
+
+  
+
+
+https://github.com/user-attachments/assets/e800e0f9-f922-4078-88db-19a310716339
+
+
+- **Sourced Web News**  
+  Searches the web, extracts the most relevant results, and includes the **original source link** for each item.
+
+
+  
+
+
+https://github.com/user-attachments/assets/6a94280f-a2cf-4a7d-9575-60c95db72b71
+
+
 - **Academic Research (arXiv)**  
   Surfaces the **top 3 or 5** relevant papers with **official arXiv links** and a one-line takeaway for each.
 
+
+
+
+https://github.com/user-attachments/assets/45183c38-d9f2-4691-9cf0-88f1b24e6b81
 
 
 
